@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL:(https://github.com/HaseebaAlhaddi/Frontend-Mentor-Order-summary-card)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://haseebaalhaddi.github.io/Frontend-Mentor-Order-summary-card/))
 
 ## My process
 
